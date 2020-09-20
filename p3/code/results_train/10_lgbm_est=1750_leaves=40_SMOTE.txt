@@ -1,0 +1,16 @@
+2019-12-24 01:07:01,610:INFO:polynom_fit_SMOTE: Running sampling via ('polynom_fit_SMOTE', "{'proportion': 1.0, 'topology': 'star', 'random_state': 26504148}")
+Fitting 2 folds for each of 30 candidates, totalling 60 fits
+[Parallel(n_jobs=-1)]: Using backend LokyBackend with 4 concurrent workers.
+[Parallel(n_jobs=-1)]: Done  42 tasks      | elapsed: 136.4min
+[Parallel(n_jobs=-1)]: Done  60 out of  60 | elapsed: 207.7min finished
+Mejores parámetros:
+{'n_estimators': 1750, 'num_leaves': 40}
+
+------ LightGBM con los mejores parÃ¡metros de GridSearch...
+F1 score (tst): 0.8259, tiempo: 162.60 segundos
+F1 score (tst): 0.8286, tiempo: 161.30 segundos
+F1 score (tst): 0.8266, tiempo: 161.77 segundos
+F1 score (tst): 0.8266, tiempo: 162.14 segundos
+F1 score (tst): 0.8281, tiempo: 160.76 segundos
+
+F1 score (tra): 0.8724

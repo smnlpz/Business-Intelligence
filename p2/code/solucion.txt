@@ -1,0 +1,766 @@
+EJECUTANDO: paro_kmeans
+
+
+Número de clusters (k):   5 
+Tiempo: 0.10 segundos 
+Calinski-Harabaz Index: 1151.234
+Silhouette Coefficient: 0.24388
+
+Tamaño del subset:
+3642
+Tamaño de cada cluster:
+4:  1081 (29.68%)
+2:   877 (24.08%)
+3:   643 (17.66%)
+1:   530 (14.55%)
+0:   511 (14.03%)
+
+
+
+EJECUTANDO: paro_minibatch
+
+
+Número de clusters (k):   5 
+Tiempo: 0.08 segundos 
+Calinski-Harabaz Index: 1093.096
+Silhouette Coefficient: 0.23874
+
+Tamaño del subset:
+3642
+Tamaño de cada cluster:
+3:  1255 (34.46%)
+1:   655 (17.98%)
+0:   621 (17.05%)
+2:   602 (16.53%)
+4:   509 (13.98%)
+
+
+
+EJECUTANDO: paro_aggward
+
+
+Número de clusters (k):   5 
+Tiempo: 0.45 segundos 
+Calinski-Harabaz Index: 948.982
+Silhouette Coefficient: 0.18812
+
+Tamaño del subset:
+3642
+Tamaño de cada cluster:
+2:  1003 (27.54%)
+0:   927 (25.45%)
+4:   671 (18.42%)
+3:   532 (14.61%)
+1:   509 (13.98%)
+
+
+
+EJECUTANDO: paro_birch
+
+
+Número de clusters (k):   5 
+Tiempo: 0.27 segundos 
+Calinski-Harabaz Index: 913.937
+Silhouette Coefficient: 0.17135
+
+Tamaño del subset:
+3642
+Tamaño de cada cluster:
+2:   855 (23.48%)
+1:   847 (23.26%)
+0:   766 (21.03%)
+3:   724 (19.88%)
+4:   450 (12.36%)
+
+
+
+EJECUTANDO: paro_meanshift
+
+
+Número de clusters (k):   7 
+Tiempo: 29.08 segundos 
+Calinski-Harabaz Index: 544.750
+Silhouette Coefficient: 0.24378
+
+Tamaño del subset:
+3642
+Tamaño de cada cluster:
+1:  1396 (38.33%)
+0:  1292 (35.48%)
+2:   859 (23.59%)
+3:    43 ( 1.18%)
+6:    42 ( 1.15%)
+4:     8 ( 0.22%)
+5:     2 ( 0.05%)
+
+
+
+EJECUTANDO: 2000_kmeans
+
+
+Número de clusters (k):   5 
+Tiempo: 0.05 segundos 
+Calinski-Harabaz Index: 405.869
+Silhouette Coefficient: 0.24070
+
+Tamaño del subset:
+1089
+Tamaño de cada cluster:
+0:   324 (29.75%)
+4:   280 (25.71%)
+1:   224 (20.57%)
+2:   169 (15.52%)
+3:    92 ( 8.45%)
+
+
+
+EJECUTANDO: 2000_minibatch
+
+
+Número de clusters (k):   5 
+Tiempo: 0.04 segundos 
+Calinski-Harabaz Index: 402.698
+Silhouette Coefficient: 0.25181
+
+Tamaño del subset:
+1089
+Tamaño de cada cluster:
+2:   329 (30.21%)
+3:   303 (27.82%)
+0:   277 (25.44%)
+1:    99 ( 9.09%)
+4:    81 ( 7.44%)
+
+
+
+EJECUTANDO: 2000_aggward
+
+
+Número de clusters (k):   5 
+Tiempo: 0.03 segundos 
+Calinski-Harabaz Index: 324.341
+Silhouette Coefficient: 0.21002
+
+Tamaño del subset:
+1089
+Tamaño de cada cluster:
+0:   432 (39.67%)
+2:   304 (27.92%)
+3:   164 (15.06%)
+1:   132 (12.12%)
+4:    57 ( 5.23%)
+
+
+
+EJECUTANDO: 2000_birch
+
+
+Número de clusters (k):   5 
+Tiempo: 0.05 segundos 
+Calinski-Harabaz Index: 272.482
+Silhouette Coefficient: 0.20511
+
+Tamaño del subset:
+1089
+Tamaño de cada cluster:
+0:   390 (35.81%)
+2:   346 (31.77%)
+1:   190 (17.45%)
+3:   158 (14.51%)
+4:     5 ( 0.46%)
+
+
+
+EJECUTANDO: 2000_meanshift
+
+
+Número de clusters (k):   6 
+Tiempo: 4.96 segundos 
+Calinski-Harabaz Index: 16.116
+Silhouette Coefficient: 0.27124
+
+Tamaño del subset:
+1089
+Tamaño de cada cluster:
+0:  1062 (97.52%)
+1:    15 ( 1.38%)
+2:     5 ( 0.46%)
+4:     4 ( 0.37%)
+5:     2 ( 0.18%)
+3:     1 ( 0.09%)
+
+
+
+EJECUTANDO: izda_kmeans
+
+
+Número de clusters (k):   5 
+Tiempo: 0.09 segundos 
+Calinski-Harabaz Index: 2314.444
+Silhouette Coefficient: 0.29182
+
+Tamaño del subset:
+4981
+Tamaño de cada cluster:
+1:  1090 (21.88%)
+3:  1061 (21.30%)
+0:  1006 (20.20%)
+4:   976 (19.59%)
+2:   848 (17.02%)
+
+
+
+EJECUTANDO: izda_minibatch
+
+
+Número de clusters (k):   5 
+Tiempo: 0.09 segundos 
+Calinski-Harabaz Index: 2276.795
+Silhouette Coefficient: 0.28912
+
+Tamaño del subset:
+4981
+Tamaño de cada cluster:
+2:  1192 (23.93%)
+1:   981 (19.69%)
+4:   975 (19.57%)
+0:   942 (18.91%)
+3:   891 (17.89%)
+
+
+
+EJECUTANDO: izda_aggward
+
+
+Número de clusters (k):   5 
+Tiempo: 0.74 segundos 
+Calinski-Harabaz Index: 1843.196
+Silhouette Coefficient: 0.22974
+
+Tamaño del subset:
+4981
+Tamaño de cada cluster:
+0:  1333 (26.76%)
+2:  1272 (25.54%)
+1:   957 (19.21%)
+3:   884 (17.75%)
+4:   535 (10.74%)
+
+
+
+EJECUTANDO: izda_birch
+
+
+Número de clusters (k):   5 
+Tiempo: 0.27 segundos 
+Calinski-Harabaz Index: 1409.362
+Silhouette Coefficient: 0.19493
+
+Tamaño del subset:
+4981
+Tamaño de cada cluster:
+1:  1898 (38.10%)
+3:  1057 (21.22%)
+2:   910 (18.27%)
+4:   560 (11.24%)
+0:   556 (11.16%)
+
+
+
+EJECUTANDO: izda_meanshift
+
+
+Número de clusters (k):   4 
+Tiempo: 91.32 segundos 
+Calinski-Harabaz Index: 1546.573
+Silhouette Coefficient: 0.26717
+
+Tamaño del subset:
+4981
+Tamaño de cada cluster:
+0:  1964 (39.43%)
+1:  1553 (31.18%)
+2:  1448 (29.07%)
+3:    16 ( 0.32%)
+
+
+
+EJECUTANDO: dcha_kmeans
+
+
+Número de clusters (k):   5 
+Tiempo: 0.05 segundos 
+Calinski-Harabaz Index: 250.722
+Silhouette Coefficient: 0.25276
+
+Tamaño del subset:
+653
+Tamaño de cada cluster:
+0:   161 (24.66%)
+4:   142 (21.75%)
+1:   142 (21.75%)
+3:   124 (18.99%)
+2:    84 (12.86%)
+
+
+
+EJECUTANDO: dcha_minibatch
+
+
+Número de clusters (k):   5 
+Tiempo: 0.05 segundos 
+Calinski-Harabaz Index: 246.713
+Silhouette Coefficient: 0.25259
+
+Tamaño del subset:
+653
+Tamaño de cada cluster:
+2:   171 (26.19%)
+3:   153 (23.43%)
+1:   148 (22.66%)
+4:   120 (18.38%)
+0:    61 ( 9.34%)
+
+
+
+EJECUTANDO: dcha_aggward
+
+
+Número de clusters (k):   5 
+Tiempo: 0.01 segundos 
+Calinski-Harabaz Index: 213.094
+Silhouette Coefficient: 0.21233
+
+Tamaño del subset:
+653
+Tamaño de cada cluster:
+1:   209 (32.01%)
+0:   144 (22.05%)
+2:   115 (17.61%)
+3:    98 (15.01%)
+4:    87 (13.32%)
+
+
+
+EJECUTANDO: dcha_birch
+
+
+Número de clusters (k):   5 
+Tiempo: 0.04 segundos 
+Calinski-Harabaz Index: 195.923
+Silhouette Coefficient: 0.20144
+
+Tamaño del subset:
+653
+Tamaño de cada cluster:
+0:   239 (36.60%)
+2:   165 (25.27%)
+3:   110 (16.85%)
+1:    86 (13.17%)
+4:    53 ( 8.12%)
+
+
+
+EJECUTANDO: dcha_meanshift
+
+
+Número de clusters (k):   5 
+Tiempo: 5.52 segundos 
+Calinski-Harabaz Index: 134.238
+Silhouette Coefficient: 0.19630
+
+Tamaño del subset:
+653
+Tamaño de cada cluster:
+0:   283 (43.34%)
+1:   207 (31.70%)
+2:   157 (24.04%)
+3:     4 ( 0.61%)
+4:     2 ( 0.31%)
+
+
+
+EJECUTANDO: paro_kmeans_3
+
+
+Número de clusters (k):   3 
+Tiempo: 0.05 segundos 
+Calinski-Harabaz Index: 1467.908
+Silhouette Coefficient: 0.27716
+
+Tamaño del subset:
+3642
+Tamaño de cada cluster:
+0:  1366 (37.51%)
+2:  1294 (35.53%)
+1:   982 (26.96%)
+
+
+
+EJECUTANDO: paro_kmeans_8
+
+
+Número de clusters (k):   8 
+Tiempo: 0.15 segundos 
+Calinski-Harabaz Index: 905.904
+Silhouette Coefficient: 0.20273
+
+Tamaño del subset:
+3642
+Tamaño de cada cluster:
+2:   745 (20.46%)
+6:   671 (18.42%)
+3:   484 (13.29%)
+7:   432 (11.86%)
+1:   348 ( 9.56%)
+5:   335 ( 9.20%)
+0:   327 ( 8.98%)
+4:   300 ( 8.24%)
+
+
+
+EJECUTANDO: paro_kmeans_random
+
+
+Número de clusters (k):   5 
+Tiempo: 0.11 segundos 
+Calinski-Harabaz Index: 1151.197
+Silhouette Coefficient: 0.24393
+
+Tamaño del subset:
+3642
+Tamaño de cada cluster:
+1:  1084 (29.76%)
+4:   882 (24.22%)
+3:   641 (17.60%)
+2:   533 (14.63%)
+0:   502 (13.78%)
+
+
+
+EJECUTANDO: paro_aggcomplete
+
+
+Número de clusters (k):   5 
+Tiempo: 0.39 segundos 
+Calinski-Harabaz Index: 623.489
+Silhouette Coefficient: 0.08153
+
+Tamaño del subset:
+3642
+Tamaño de cada cluster:
+0:  1380 (37.89%)
+3:  1024 (28.12%)
+1:   547 (15.02%)
+4:   400 (10.98%)
+2:   291 ( 7.99%)
+
+
+
+EJECUTANDO: paro_aggaverage
+
+
+Número de clusters (k):   5 
+Tiempo: 0.42 segundos 
+Calinski-Harabaz Index: 387.685
+Silhouette Coefficient: 0.17602
+
+Tamaño del subset:
+3642
+Tamaño de cada cluster:
+1:  2466 (67.71%)
+0:  1117 (30.67%)
+2:    45 ( 1.24%)
+3:     7 ( 0.19%)
+4:     7 ( 0.19%)
+
+
+
+EJECUTANDO: 2000_kmeans_3
+
+
+Número de clusters (k):   3 
+Tiempo: 0.02 segundos 
+Calinski-Harabaz Index: 490.946
+Silhouette Coefficient: 0.28982
+
+Tamaño del subset:
+1089
+Tamaño de cada cluster:
+2:   496 (45.55%)
+0:   298 (27.36%)
+1:   295 (27.09%)
+
+
+
+EJECUTANDO: 2000_kmeans_8
+
+
+Número de clusters (k):   8 
+Tiempo: 0.06 segundos 
+Calinski-Harabaz Index: 359.941
+Silhouette Coefficient: 0.24463
+
+Tamaño del subset:
+1089
+Tamaño de cada cluster:
+4:   242 (22.22%)
+7:   232 (21.30%)
+2:   217 (19.93%)
+1:   118 (10.84%)
+0:    87 ( 7.99%)
+5:    86 ( 7.90%)
+6:    77 ( 7.07%)
+3:    30 ( 2.75%)
+
+
+
+EJECUTANDO: 2000_kmeans_random
+
+
+Número de clusters (k):   5 
+Tiempo: 0.03 segundos 
+Calinski-Harabaz Index: 410.796
+Silhouette Coefficient: 0.25514
+
+Tamaño del subset:
+1089
+Tamaño de cada cluster:
+3:   321 (29.48%)
+0:   297 (27.27%)
+2:   262 (24.06%)
+4:   121 (11.11%)
+1:    88 ( 8.08%)
+
+
+
+EJECUTANDO: 2000_aggcomplete
+
+
+Número de clusters (k):   5 
+Tiempo: 0.03 segundos 
+Calinski-Harabaz Index: 195.544
+Silhouette Coefficient: 0.20795
+
+Tamaño del subset:
+1089
+Tamaño de cada cluster:
+2:   756 (69.42%)
+4:   150 (13.77%)
+0:   107 ( 9.83%)
+1:    71 ( 6.52%)
+3:     5 ( 0.46%)
+
+
+
+EJECUTANDO: 2000_aggaverage
+
+
+Número de clusters (k):   5 
+Tiempo: 0.03 segundos 
+Calinski-Harabaz Index: 80.983
+Silhouette Coefficient: 0.36005
+
+Tamaño del subset:
+1089
+Tamaño de cada cluster:
+0:  1014 (93.11%)
+3:    65 ( 5.97%)
+2:     6 ( 0.55%)
+1:     3 ( 0.28%)
+4:     1 ( 0.09%)
+
+
+
+EJECUTANDO: izda_kmeans_3
+
+
+Número de clusters (k):   3 
+Tiempo: 0.06 segundos 
+Calinski-Harabaz Index: 2424.056
+Silhouette Coefficient: 0.30231
+
+Tamaño del subset:
+4981
+Tamaño de cada cluster:
+1:  1852 (37.18%)
+0:  1687 (33.87%)
+2:  1442 (28.95%)
+
+
+
+EJECUTANDO: izda_kmeans_8
+
+
+Número de clusters (k):   8 
+Tiempo: 0.15 segundos 
+Calinski-Harabaz Index: 1976.842
+Silhouette Coefficient: 0.26562
+
+Tamaño del subset:
+4981
+Tamaño de cada cluster:
+7:   851 (17.08%)
+4:   750 (15.06%)
+2:   723 (14.52%)
+0:   677 (13.59%)
+3:   611 (12.27%)
+6:   591 (11.87%)
+1:   408 ( 8.19%)
+5:   370 ( 7.43%)
+
+
+
+EJECUTANDO: izda_kmeans_random
+
+
+Número de clusters (k):   5 
+Tiempo: 0.07 segundos 
+Calinski-Harabaz Index: 2315.042
+Silhouette Coefficient: 0.29200
+
+Tamaño del subset:
+4981
+Tamaño de cada cluster:
+4:  1074 (21.56%)
+0:  1042 (20.92%)
+1:  1031 (20.70%)
+2:   978 (19.63%)
+3:   856 (17.19%)
+
+
+
+EJECUTANDO: izda_aggcomplete
+
+
+Número de clusters (k):   5 
+Tiempo: 0.83 segundos 
+Calinski-Harabaz Index: 1182.047
+Silhouette Coefficient: 0.15585
+
+Tamaño del subset:
+4981
+Tamaño de cada cluster:
+0:  1857 (37.28%)
+2:  1460 (29.31%)
+3:   811 (16.28%)
+1:   625 (12.55%)
+4:   228 ( 4.58%)
+
+
+
+EJECUTANDO: izda_aggaverage
+
+
+Número de clusters (k):   5 
+Tiempo: 0.86 segundos 
+Calinski-Harabaz Index: 999.959
+Silhouette Coefficient: 0.20511
+
+Tamaño del subset:
+4981
+Tamaño de cada cluster:
+3:  1808 (36.30%)
+1:  1686 (33.85%)
+2:  1466 (29.43%)
+0:    18 ( 0.36%)
+4:     3 ( 0.06%)
+
+
+
+EJECUTANDO: dcha_kmeans_3
+
+
+Número de clusters (k):   3 
+Tiempo: 0.04 segundos 
+Calinski-Harabaz Index: 288.314
+Silhouette Coefficient: 0.26147
+
+Tamaño del subset:
+653
+Tamaño de cada cluster:
+0:   259 (39.66%)
+1:   202 (30.93%)
+2:   192 (29.40%)
+
+
+
+EJECUTANDO: dcha_kmeans_8
+
+
+Número de clusters (k):   8 
+Tiempo: 0.06 segundos 
+Calinski-Harabaz Index: 218.947
+Silhouette Coefficient: 0.23408
+
+Tamaño del subset:
+653
+Tamaño de cada cluster:
+2:   123 (18.84%)
+4:   106 (16.23%)
+7:    82 (12.56%)
+1:    80 (12.25%)
+0:    72 (11.03%)
+3:    71 (10.87%)
+6:    67 (10.26%)
+5:    52 ( 7.96%)
+
+
+
+EJECUTANDO: dcha_kmeans_random
+
+
+Número de clusters (k):   5 
+Tiempo: 0.03 segundos 
+Calinski-Harabaz Index: 250.587
+Silhouette Coefficient: 0.25510
+
+Tamaño del subset:
+653
+Tamaño de cada cluster:
+3:   158 (24.20%)
+1:   145 (22.21%)
+0:   134 (20.52%)
+4:   129 (19.75%)
+2:    87 (13.32%)
+
+
+
+EJECUTANDO: dcha_aggcomplete
+
+
+Número de clusters (k):   5 
+Tiempo: 0.01 segundos 
+Calinski-Harabaz Index: 170.308
+Silhouette Coefficient: 0.19467
+
+Tamaño del subset:
+653
+Tamaño de cada cluster:
+3:   261 (39.97%)
+4:   148 (22.66%)
+0:   142 (21.75%)
+1:    94 (14.40%)
+2:     8 ( 1.23%)
+
+
+
+EJECUTANDO: dcha_aggaverage
+
+
+Número de clusters (k):   5 
+Tiempo: 0.01 segundos 
+Calinski-Harabaz Index: 88.323
+Silhouette Coefficient: 0.21625
+
+Tamaño del subset:
+653
+Tamaño de cada cluster:
+4:   362 (55.44%)
+1:   274 (41.96%)
+0:    14 ( 2.14%)
+3:     2 ( 0.31%)
+2:     1 ( 0.15%)
+
+
+

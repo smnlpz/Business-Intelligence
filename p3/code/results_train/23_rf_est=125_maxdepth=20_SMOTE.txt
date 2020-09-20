@@ -1,0 +1,15 @@
+2019-12-27 18:08:21,930:INFO:MulticlassOversampling: Running multiclass oversampling with strategy equalize_1_vs_many_successive
+2019-12-27 18:08:21,973:INFO:MulticlassOversampling: Sampling minority class with label: 3
+2019-12-27 18:08:22,012:INFO:polynom_fit_SMOTE: Running sampling via ('polynom_fit_SMOTE', "{'proportion': 1.0, 'topology': 'star', 'random_state': 26504148}")
+2019-12-27 18:08:22,758:INFO:MulticlassOversampling: Sampling minority class with label: 1
+2019-12-27 18:08:22,793:INFO:polynom_fit_SMOTE: Running sampling via ('polynom_fit_SMOTE', "{'proportion': 0.45371305187292277, 'topology': 'star', 'random_state': 26504148}")
+RANDOM FOREST
+
+F1 score (tst): 0.8527, tiempo: 146.43 segundos
+F1 score (tst): 0.8537, tiempo: 146.92 segundos
+F1 score (tst): 0.8529, tiempo: 141.33 segundos
+F1 score (tst): 0.8544, tiempo: 142.87 segundos
+F1 score (tst): 0.8557, tiempo: 144.29 segundos
+
+F1 score (tra): 0.9128, tiempo: 188.81 segundos
+Tiempo predict:   1.42 segundos

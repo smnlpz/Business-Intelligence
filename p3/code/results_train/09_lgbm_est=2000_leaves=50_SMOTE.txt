@@ -1,0 +1,9 @@
+2019-12-23 20:20:47,982:INFO:polynom_fit_SMOTE: Running sampling via ('polynom_fit_SMOTE', "{'proportion': 1.0, 'topology': 'star', 'random_state': 26504148}")
+LIGHT GBM
+F1 score (tst): 0.8247, tiempo: 217.30 segundos
+F1 score (tst): 0.8286, tiempo: 201.87 segundos
+F1 score (tst): 0.8287, tiempo: 208.60 segundos
+F1 score (tst): 0.8292, tiempo: 197.30 segundos
+F1 score (tst): 0.8257, tiempo: 226.47 segundos
+
+F1 score (tra): 0.8868

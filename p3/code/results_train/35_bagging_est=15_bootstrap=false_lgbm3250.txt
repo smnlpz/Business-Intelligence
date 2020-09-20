@@ -1,0 +1,5 @@
+BAGGING LGBM
+OMP: Warning #190: Forking a process while a parallel region is active is potentially unsafe.
+F1 score (tra): 0.8334, tiempo: 2520.05 segundos
+OMP: Warning #190: Forking a process while a parallel region is active is potentially unsafe.
+Tiempo predict: 1088.14 segundos

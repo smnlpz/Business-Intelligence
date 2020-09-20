@@ -1,0 +1,50 @@
+LOGISTIC REGRESSION
+F1 score (tst): 0.5691, tiempo:   3.39 segundos
+F1 score (tst): 0.5691, tiempo:   3.54 segundos
+F1 score (tst): 0.5692, tiempo:   3.48 segundos
+F1 score (tst): 0.5692, tiempo:   3.43 segundos
+F1 score (tst): 0.5692, tiempo:   3.72 segundos
+
+NAIVE BAYES
+F1 score (tst): 0.4298, tiempo:   0.18 segundos
+F1 score (tst): 0.4307, tiempo:   0.18 segundos
+F1 score (tst): 0.4312, tiempo:   0.18 segundos
+F1 score (tst): 0.4290, tiempo:   0.18 segundos
+F1 score (tst): 0.4285, tiempo:   0.18 segundos
+
+RANDOM FOREST
+F1 score (tst): 0.6972, tiempo:   4.11 segundos
+F1 score (tst): 0.6974, tiempo:   4.06 segundos
+F1 score (tst): 0.6994, tiempo:   4.12 segundos
+F1 score (tst): 0.7032, tiempo:   4.03 segundos
+F1 score (tst): 0.7011, tiempo:   4.06 segundos
+
+LIGHT GBM
+F1 score (tst): 0.7054, tiempo:   8.50 segundos
+F1 score (tst): 0.7095, tiempo:   8.57 segundos
+F1 score (tst): 0.7058, tiempo:  10.69 segundos
+F1 score (tst): 0.7095, tiempo:   9.10 segundos
+F1 score (tst): 0.7068, tiempo:   9.85 segundos
+
+STOCHASTIC GRADIENT DESCENT
+F1 score (tst): 0.5690, tiempo:   2.65 segundos
+F1 score (tst): 0.5690, tiempo:   2.66 segundos
+F1 score (tst): 0.5690, tiempo:   2.77 segundos
+F1 score (tst): 0.5694, tiempo:   2.49 segundos
+F1 score (tst): 0.5690, tiempo:   2.52 segundos
+
+ADA BOOST
+F1 score (tst): 0.6362, tiempo:  15.07 segundos
+F1 score (tst): 0.6386, tiempo:  14.74 segundos
+F1 score (tst): 0.6339, tiempo:  14.72 segundos
+F1 score (tst): 0.6435, tiempo:  14.78 segundos
+F1 score (tst): 0.6417, tiempo:  14.69 segundos
+
+MLP CLASSIFIER
+F1 score (tst): 0.5676, tiempo: 163.13 segundos
+F1 score (tst): 0.5646, tiempo: 168.11 segundos
+F1 score (tst): 0.5671, tiempo: 169.17 segundos
+F1 score (tst): 0.5700, tiempo: 168.15 segundos
+F1 score (tst): 0.5690, tiempo: 167.93 segundos
+
+

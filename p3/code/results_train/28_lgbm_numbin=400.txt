@@ -1,0 +1,21 @@
+2019-12-29 22:02:29,487:INFO:MulticlassOversampling: Running multiclass oversampling with strategy equalize_1_vs_many_successive
+2019-12-29 22:02:29,547:INFO:MulticlassOversampling: Sampling minority class with label: 3
+2019-12-29 22:02:29,593:INFO:polynom_fit_SMOTE: Running sampling via ('polynom_fit_SMOTE', "{'proportion': 1.0, 'topology': 'mesh', 'random_state': 26504148}")
+2019-12-29 22:02:31,437:INFO:MulticlassOversampling: Sampling minority class with label: 1
+2019-12-29 22:02:31,476:INFO:polynom_fit_SMOTE: Running sampling via ('polynom_fit_SMOTE', "{'proportion': 0.45371305187292277, 'topology': 'mesh', 'random_state': 26504148}")
+Fitting 2 folds for each of 90 candidates, totalling 180 fits
+[Parallel(n_jobs=-1)]: Using backend LokyBackend with 4 concurrent workers.
+[Parallel(n_jobs=-1)]: Done  42 tasks      | elapsed: 193.5min
+[Parallel(n_jobs=-1)]: Done 180 out of 180 | elapsed: 779.7min finished
+Mejores parámetros:
+{'learning_rate': 0.1, 'max_bin': 400, 'num_leaves': 28}
+
+------ LightGBM con los mejores parámetros de GridSearch...
+F1 score (tst): 0.8245, tiempo: 235.80 segundos
+F1 score (tst): 0.8231, tiempo: 219.63 segundos
+F1 score (tst): 0.8227, tiempo: 235.17 segundos
+F1 score (tst): 0.8235, tiempo: 236.78 segundos
+F1 score (tst): 0.8249, tiempo: 274.74 segundos
+
+F1 score (tra): 0.8647, tiempo: 340.36 segundos
+Tiempo predict:  30.56 segundos

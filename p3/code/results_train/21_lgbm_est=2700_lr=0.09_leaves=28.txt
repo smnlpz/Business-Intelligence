@@ -1,0 +1,17 @@
+Fitting 2 folds for each of 90 candidates, totalling 180 fits
+[Parallel(n_jobs=-1)]: Using backend LokyBackend with 4 concurrent workers.
+[Parallel(n_jobs=-1)]: Done  42 tasks      | elapsed: 95.9min
+/home/simon/anaconda3/lib/python3.7/site-packages/joblib/externals/loky/process_executor.py:706: UserWarning: A worker stopped while some jobs were given to the executor. This can be caused by a too short worker timeout or by a memory leak.
+  "timeout or by a memory leak.", UserWarning
+[Parallel(n_jobs=-1)]: Done 180 out of 180 | elapsed: 380.7min finished
+Mejores parámetros:
+{'learning_rate': 0.09, 'n_estimators': 2700, 'num_leaves': 28}
+
+------ LightGBM con los mejores parámetros de GridSearch...
+F1 score (tst): 0.7414, tiempo: 123.86 segundos
+F1 score (tst): 0.7440, tiempo: 123.11 segundos
+F1 score (tst): 0.7427, tiempo: 122.68 segundos
+F1 score (tst): 0.7462, tiempo: 121.97 segundos
+F1 score (tst): 0.7447, tiempo: 122.73 segundos
+
+F1 score (tra): 0.8049

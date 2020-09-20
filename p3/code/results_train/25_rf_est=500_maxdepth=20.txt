@@ -1,0 +1,4 @@
+RANDOM FOREST
+
+F1 score (tra): 0.8817, tiempo: 546.38 segundos
+Tiempo predict:   6.75 segundos

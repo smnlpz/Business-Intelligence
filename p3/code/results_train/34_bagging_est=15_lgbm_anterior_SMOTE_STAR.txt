@@ -1,0 +1,3 @@
+BAGGING LGBM
+F1 score (tra): 0.9018, tiempo: 3415.83 segundos
+Tiempo predict: 544.95 segundos

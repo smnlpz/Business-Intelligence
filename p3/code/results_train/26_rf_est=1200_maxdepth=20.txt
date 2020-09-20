@@ -1,0 +1,22 @@
+RANDOM FOREST
+
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 4 concurrent workers.
+[Parallel(n_jobs=-1)]: Done  42 tasks      | elapsed:   47.1s
+[Parallel(n_jobs=-1)]: Done 192 tasks      | elapsed:  3.6min
+[Parallel(n_jobs=-1)]: Done 442 tasks      | elapsed:  8.1min
+[Parallel(n_jobs=-1)]: Done 792 tasks      | elapsed: 15.9min
+[Parallel(n_jobs=-1)]: Done 1200 out of 1200 | elapsed: 23.4min finished
+[Parallel(n_jobs=4)]: Using backend ThreadingBackend with 4 concurrent workers.
+[Parallel(n_jobs=4)]: Done  42 tasks      | elapsed:    4.7s
+[Parallel(n_jobs=4)]: Done 192 tasks      | elapsed:   14.3s
+[Parallel(n_jobs=4)]: Done 442 tasks      | elapsed:   31.7s
+[Parallel(n_jobs=4)]: Done 792 tasks      | elapsed:   53.1s
+[Parallel(n_jobs=4)]: Done 1200 out of 1200 | elapsed:  1.3min finished
+F1 score (tra): 0.8819, tiempo: 1404.92 segundos
+[Parallel(n_jobs=4)]: Using backend ThreadingBackend with 4 concurrent workers.
+[Parallel(n_jobs=4)]: Done  42 tasks      | elapsed:    0.6s
+[Parallel(n_jobs=4)]: Done 192 tasks      | elapsed:    2.5s
+[Parallel(n_jobs=4)]: Done 442 tasks      | elapsed:    5.7s
+[Parallel(n_jobs=4)]: Done 792 tasks      | elapsed:   10.1s
+[Parallel(n_jobs=4)]: Done 1200 out of 1200 | elapsed:   15.2s finished
+Tiempo predict:  15.29 segundos

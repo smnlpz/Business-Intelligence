@@ -1,0 +1,8 @@
+LIGHT GBM
+F1 score (tst): 0.7410, tiempo:  80.03 segundos
+F1 score (tst): 0.7404, tiempo:  65.60 segundos
+F1 score (tst): 0.7380, tiempo:  55.20 segundos
+F1 score (tst): 0.7388, tiempo:  57.37 segundos
+F1 score (tst): 0.7373, tiempo:  70.39 segundos
+
+F1 score (tra): 0.7738

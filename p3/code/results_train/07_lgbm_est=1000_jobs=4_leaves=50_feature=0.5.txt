@@ -1,0 +1,13 @@
+LIGHT GBM
+F1 score (tst): 0.7436, tiempo:  47.65 segundos
+[LightGBM] [Warning] feature_fraction is set=0.5, colsample_bytree=1.0 will be ignored. Current value: feature_fraction=0.5
+F1 score (tst): 0.7430, tiempo:  48.86 segundos
+[LightGBM] [Warning] feature_fraction is set=0.5, colsample_bytree=1.0 will be ignored. Current value: feature_fraction=0.5
+F1 score (tst): 0.7424, tiempo:  46.42 segundos
+[LightGBM] [Warning] feature_fraction is set=0.5, colsample_bytree=1.0 will be ignored. Current value: feature_fraction=0.5
+F1 score (tst): 0.7434, tiempo:  52.17 segundos
+[LightGBM] [Warning] feature_fraction is set=0.5, colsample_bytree=1.0 will be ignored. Current value: feature_fraction=0.5
+F1 score (tst): 0.7434, tiempo:  46.39 segundos
+
+[LightGBM] [Warning] feature_fraction is set=0.5, colsample_bytree=1.0 will be ignored. Current value: feature_fraction=0.5
+F1 score (tra): 0.7849

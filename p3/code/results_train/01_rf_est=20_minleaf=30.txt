@@ -1,0 +1,9 @@
+RANDOM FOREST
+
+F1 score (tst): 0.7324, tiempo:  21.52 segundos
+F1 score (tst): 0.7301, tiempo:  22.23 segundos
+F1 score (tst): 0.7301, tiempo:  23.77 segundos
+F1 score (tst): 0.7294, tiempo:  22.87 segundos
+F1 score (tst): 0.7316, tiempo:  24.11 segundos
+
+F1 score (tra): 0.7553
