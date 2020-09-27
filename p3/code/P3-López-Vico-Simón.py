@@ -1,4 +1,4 @@
-	#!/usr/bin/env python3
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
 Created on Fri Dec 13 12:54:36 2019
@@ -128,7 +128,7 @@ mask = data_x_tst.isnull()
 #LabelEncoder no funciona con NaN, se asigna un valor no usado
 data_x_tmp = data_x_tst.fillna(9999)
 
-#se convierten categÃ³ricas en numÃ©ricas
+#se convierten categóricas en numéricas
 data_x_tmp = data_x_tmp.astype(str).apply(LabelEncoder().fit_transform)
 
 #se recuperan los NaN
@@ -606,8 +606,6 @@ cat_dict = {}
 
 for col in data_x.columns:
 	if(type(data_x[col][0]) is str):
-		#print(data_x[col].value_counts())
-		#print(col)
 		categories = data_x[col].value_counts().index
 		add_dict = {}
 		for i in range(0,categories.size):
@@ -1212,7 +1210,7 @@ bag = BaggingClassifier(base_estimator=lgbm,n_jobs=-1,
 # ****************
 # ****** 35 ******
 # ****************
-# ULTIMO INTENTO !! !!! !!!!!!!!
+# ÚLTIMO INTENTO !!!!!!!!!!!!!
 
 # Enviado 26
 from sklearn.ensemble import BaggingClassifier
@@ -1224,6 +1222,10 @@ lgbm = lgb.LGBMClassifier(objective='multiclassova',n_jobs=-1,
 bag = BaggingClassifier(base_estimator=lgbm,n_jobs=-1,
 						n_estimators=15,random_state=SEED, bootstrap=False)
 bag, result = validacion_cruzada(bag,X,y,skf)
+
+
+
+
 
 
 
